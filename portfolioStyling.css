@@ -1,0 +1,53 @@
+h1 {
+  color: #1A0061;
+  font-size: 50px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+.large {
+  color: black;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+}
+.small {
+  color: black;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+}
+.button {
+  background-color: #cdaaf2;
+  color: black;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+.caption {
+  color: black;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+/* h4 {
+  color: black;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+} */
+
+/* h5 {
+  color: black;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+} */
+
+/* h6 {
+  color: black;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+} */
+
+:focus {
+    outline: 3px solid black;
+}
+
+body {
+  background-color: #D3D3D3;
+}
